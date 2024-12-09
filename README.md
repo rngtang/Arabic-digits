@@ -1,1 +1,3 @@
 # Arabic-digits
+
+This project was completed as part of the final assignment for Duke University's ECE480 course. The objective was to develop a Gaussian Mixture Model (GMM) trained on Mel-Frequency Cepstral Coefficients (MFCCs) extracted from spoken Arabic digit recordings. In this study, we explored several approaches, including using K-Means and Expectation-Maximization (EM) as initialization methods for the GMM, incorporating gender as a latent variable, and averaging blocks of data to simplify the input features. These techniques were evaluated to determine their impact on the model’s performance and classification accuracy.
